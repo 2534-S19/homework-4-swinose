@@ -1,10 +1,9 @@
 /*
  * homework4.h
  *
- *  Created on:
- *      Author:
+ *  Created on: 4/7/2020
+ *      Author: Mahdi Alkafawi
  */
-
 #ifndef HOMEWORK4_H_
 #define HOMEWORK4_H_
 
