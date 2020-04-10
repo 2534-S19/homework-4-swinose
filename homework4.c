@@ -148,7 +148,14 @@ bool charFSM(char rChar)
             break;
 
         case 4:
-            states = 0;
+            if (rChar == '2')
+            {
+                states = 1;
+            }
+            else
+            {
+                states = 0;
+            }
             break;
     }
     return finished;
